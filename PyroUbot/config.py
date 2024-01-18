@@ -2,13 +2,14 @@ import os
 
 DEVS = [
     1948761604,
+    1948761604,
 ]
 
 API_ID = int(os.getenv("API_ID", "14920143"))
 
 API_HASH = os.getenv("API_HASH", "5a316e55fb121d9b5e891b5ff07d4677")
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "6248764230:AAGl3J_1ViCxVcqhkBbRiwjMZppqdtXh1SU")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "6372218590:AAEzg4aiX6m98nazghLcrvj_vMX9CcfedXM")
 
 OWNER_ID = int(os.getenv("OWNER_ID", "1948761604"))
 
