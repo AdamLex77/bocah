@@ -38,8 +38,8 @@ class MSG:
 
 <b>💳 ᴍᴏᴛᴏᴅᴇ ᴘᴇᴍʙᴀʏᴀʀᴀɴ:</b>
  <b>├──• ᴅᴀɴᴀ </b>
- <b>├─• <code>085810073105</code></b>
- <b>└──• <a href=https://link.dana.id/qr/7rjm56pa>ᴋʟɪᴋ ᴅɪsɪɴɪ</a></b>
+ <b>├─• <code>0895414533737</code></b>
+ <b>└──• <a href=https://link.dana.id/qr/3vwikadp>ᴋʟɪᴋ ᴅɪsɪɴɪ</a></b>
 
 <b>🔖 ᴛᴏᴛᴀʟ ʜᴀʀɢᴀ: ʀᴘ {total}.000</b>
 <b>🗓️ ᴛᴏᴛᴀʟ ʙᴜʟᴀɴ: {bulan}</b> 
