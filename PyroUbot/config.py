@@ -1,20 +1,20 @@
 import os
 
 DEVS = [
-    1873668175,
+    1948761604,
 ]
 
 API_ID = int(os.getenv("API_ID", "14920143"))
 
 API_HASH = os.getenv("API_HASH", "5a316e55fb121d9b5e891b5ff07d4677")
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "6571031558:AAFyjvrgD7JdyyJN8L5VTeKIgpYehnxN0VE")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "6248764230:AAGl3J_1ViCxVcqhkBbRiwjMZppqdtXh1SU")
 
-OWNER_ID = int(os.getenv("OWNER_ID", "1873668175"))
+OWNER_ID = int(os.getenv("OWNER_ID", "1948761604"))
 
-LOGS_MAKER_UBOT = int(os.getenv("LOGS_MAKER_UBOT", "-1002103823552"))
+LOGS_MAKER_UBOT = int(os.getenv("LOGS_MAKER_UBOT", "-1001914077416"))
 
-BLACKLIST_CHAT = list(map(int, os.getenv("BLACKLIST_CHAT", "-1001994121863").split()))
+BLACKLIST_CHAT = list(map(int, os.getenv("BLACKLIST_CHAT", "-1001914077416").split()))
 
 MAX_BOT = int(os.getenv("MAX_BOT", "550"))
 

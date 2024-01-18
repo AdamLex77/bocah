@@ -57,7 +57,7 @@ async def confirm_callback(client, callback_query):
                 f"<b>💬 sɪʟᴀʜᴋᴀɴ ᴋɪʀɪᴍᴋᴀɴ ʙᴜᴋᴛɪ sᴄʀᴇᴇɴsʜᴏᴛ ᴘᴇᴍʙᴀʏᴀʀᴀɴ ᴀɴᴅᴀ: {full_name}</b>",
             )
             buttons = [
-                [InlineKeyboardButton("👮‍♀️ ᴀᴅᴍɪɴ", url="https://t.me/akuab1ng")]
+                [InlineKeyboardButton("👮‍♀️ ᴀᴅᴍɪɴ", url="https://t.me/thisvian")]
             ]
             return await bot.send_message(
                 user_id,

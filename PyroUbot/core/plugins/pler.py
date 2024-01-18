@@ -16,7 +16,7 @@ async def ohaja(client, callback_query):
         waktu = exp.strftime("%d-%m-%Y") if exp else "None"
         return await callback_query.edit_message_text(
             f"""
-<b>ᴀʙɪɴɢᴜʙᴏᴛ</b>
+<b>ᴠɪʌɴ ᴜʙᴏᴛ</b>
  <b>sᴛᴀᴛᴜs :</b> <code>ᴘʀᴇᴍɪᴜᴍ</code>
   <b>ᴘʀᴇғɪxᴇs :</b> <code>{prefix[0]}</code>
   <b>ᴇxᴘɪʀᴇᴅ_ᴏɴ :</b> <code>{waktu}</code>
