@@ -1,4 +1,4 @@
-git+https://github.com/XtomiX/pyrogram
+git+https://github.com/oasui/pyrogram
 tgcrypto
 pytz
 psutil
